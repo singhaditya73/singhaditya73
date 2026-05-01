@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Aditya%20Singh&fontSize=48&fontColor=fff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20LLMs%20%7C%20GenAI%20%7C%20DevOps&descAlignY=70&descSize=18" width="100%" />
 
-<h3 align="center">🚀 Engineering Student | Full Stack Developer | LLMs | GenAI | DevOps 🚀</h3>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="320" alt="Aesthetic animation" />
 </div>
@@ -27,10 +25,9 @@
   <img src="https://img.shields.io/badge/Full%20Stack-111827?style=for-the-badge" alt="Full Stack" />
 </div>
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  Tech Stack & Tools
-</h2>
+<br>
+
+<h2 align="center">🛠 Tech Stack & Tools</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
@@ -51,42 +48,32 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<br>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  GitHub Statistics
-</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhaditya73&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhaditya73&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhaditya73&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhaditya73&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhaditya73&theme=radical" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhaditya73&theme=radical" />
 </p>
 
 
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
-  Contribution Graph
-</h2>
 
 <br>
+
+<h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhaditya73&theme=tokyo-night&hide_border=true&area=true&custom_title=Aditya's%20Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhaditya73&theme=radical&hide_border=true&area=true&custom_title=Aditya's%20Contribution%20Graph" alt="Contribution Graph" />
 </div>
-
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35">
-  Holopin Badges
-</h2>
 
 <br>
 
+<h2 align="center">🎖 Holopin Badges</h2>
 
 <p align="center">
   <a href="https://holopin.io/@singhaditya73">
@@ -110,32 +97,29 @@
 
 <br>
 
-<h2 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f91d.svg" width="35" alt="Handshake Icon">
-  Connect with Me
-</h2>
+<h2 align="center">🤝 Connect with Me</h2>
 
 <div align="center">
   <a href="mailto:adityasinghrajput755@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Collaborate-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Collaborate" />
+    <img src="https://img.shields.io/badge/Let's%20Collaborate-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Collaborate" />
   </a>
 </div>
-
+<br>
 <div align="center">
   <a href="https://www.adityasingh7.tech/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/aditya-singh73">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/aditya_singh73">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:adityasinghrajput755@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/singhaditya73">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
