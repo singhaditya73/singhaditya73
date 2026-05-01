@@ -82,7 +82,19 @@
 
 <p align="center">
   <a href="https://holopin.io/@singhaditya73">
-    <img src="https://holopin.me/singhaditya73" alt="An image of @singhaditya73's Holopin badges, which is a link to view their full Holopin profile" />
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-terminal-0-0-0-0.webp" alt="Holopin badge level 0" width="120" />
+  </a>
+  <a href="https://holopin.io/@singhaditya73">
+    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-terminal-0-0-0-0.webp" alt="Holopin badge level 1" width="120" />
+  </a>
+  <a href="https://holopin.io/@singhaditya73">
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-terminal-0-0-0-0.webp" alt="Holopin badge level 2" width="120" />
+  </a>
+  <a href="https://holopin.io/@singhaditya73">
+    <img src="https://assets.holopin.io/hf2024levels/level3-sloth-terminal-0-0-0-0.webp" alt="Holopin badge level 3" width="120" />
+  </a>
+  <a href="https://holopin.io/@singhaditya73">
+    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-terminal-0-0-0-0.webp" alt="Holopin badge level 4" width="120" />
   </a>
 </p>
 
