@@ -68,7 +68,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhaditya73&theme=radical&hide_border=true&area=true&custom_title=Aditya's%20Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhaditya73&theme=dracula&hide_border=true&area=true&custom_title=Aditya's%20Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <br>
