@@ -81,7 +81,7 @@
 
 
 <p align="center">
-  <a href="https://holopin.io/@singhaditya73">
+  <a href="https://www.holopin.io/@singhaditya73#badges">
     <img src="https://holopin.me/@singhaditya73" alt="@singhaditya73's Holopin board" />
   </a>
 </p>
