@@ -16,11 +16,16 @@
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, TypeScript, Golang, DevOps, LLMs, GenAI**
 - 📫 Reach me at **adityasinghrajput755@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code!** ☕→💻
+- ⚡ Fun fact: **I don’t drink coffee, still I can code.**
 
 <br clear="right"/>
 
-
+<div align="center">
+  <img src="https://img.shields.io/badge/LLMs-0A0A0A?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/GenAI-6F2CF3?style=for-the-badge" alt="GenAI" />
+  <img src="https://img.shields.io/badge/DevOps-0F8B8D?style=for-the-badge" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Full%20Stack-111827?style=for-the-badge" alt="Full Stack" />
+</div>
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
@@ -109,6 +114,12 @@
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f91d.svg" width="35" alt="Handshake Icon">
   Connect with Me
 </h2>
+
+<div align="center">
+  <a href="mailto:adityasinghrajput755@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Collaborate-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Collaborate" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://www.adityasingh7.tech/">
