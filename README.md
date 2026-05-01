@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Aditya%20Singh&fontSize=48&fontColor=fff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20LLMs%20%7C%20GenAI%20%7C%20DevOps&descAlignY=70&descSize=18" width="100%" />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="320" alt="Aesthetic animation" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F8B8D&height=220&section=header&text=Aditya%20Singh&fontSize=48&fontColor=fff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20LLMs%20%7C%20GenAI%20%7C%20DevOps&descAlignY=70&descSize=18" width="100%" />
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -20,7 +16,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/LLMs-0A0A0A?style=for-the-badge" alt="LLMs" />
-  <img src="https://img.shields.io/badge/GenAI-6F2CF3?style=for-the-badge" alt="GenAI" />
+  <img src="https://img.shields.io/badge/GenAI-008080?style=for-the-badge" alt="GenAI" />
   <img src="https://img.shields.io/badge/DevOps-0F8B8D?style=for-the-badge" alt="DevOps" />
   <img src="https://img.shields.io/badge/Full%20Stack-111827?style=for-the-badge" alt="Full Stack" />
 </div>
@@ -53,12 +49,12 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhaditya73&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhaditya73&theme=nord&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhaditya73&theme=radical" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhaditya73&theme=radical" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhaditya73&theme=nord" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhaditya73&theme=nord" />
 </p>
 
 
@@ -68,7 +64,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhaditya73&theme=dracula&hide_border=true&area=true&custom_title=Aditya's%20Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhaditya73&theme=nord&hide_border=true&area=true&custom_title=Aditya's%20Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <br>
@@ -130,8 +126,8 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=singhaditya73&label=Profile%20Views&color=e05397&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/singhaditya73?label=Followers&style=for-the-badge&color=e05397" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=singhaditya73&label=Profile%20Views&color=0F8B8D&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/singhaditya73?label=Followers&style=for-the-badge&color=0F8B8D" alt="followers" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together!&descSize=14&descAlignY=88" /></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F8B8D&height=150&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together!&descSize=14&descAlignY=88" /></div>
