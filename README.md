@@ -6,8 +6,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="320" alt="Aesthetic animation" />
 </div>
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 ### 👨‍💻 About Me
 
 - 🌍 Based on **Earth** with dreams beyond the stars
@@ -18,7 +16,9 @@
 - 📫 Reach me at **adityasinghrajput755@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code!** ☕→💻
 
-<br clear="right"/>
+<div align="center">
+  <img alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
 
 
 
@@ -52,8 +52,6 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   GitHub Statistics
 </h2>
-
-<br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhaditya73&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
@@ -111,8 +109,6 @@
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f91d.svg" width="35" alt="Handshake Icon">
   Connect with Me
 </h2>
-
-<br>
 
 <div align="center">
   <a href="https://www.adityasingh7.tech/">
