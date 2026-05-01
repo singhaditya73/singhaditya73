@@ -6,6 +6,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="320" alt="Aesthetic animation" />
 </div>
 
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ### 👨‍💻 About Me
 
 - 🌍 Based on **Earth** with dreams beyond the stars
@@ -16,9 +18,7 @@
 - 📫 Reach me at **adityasinghrajput755@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code!** ☕→💻
 
-<div align="center">
-  <img alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</div>
+<br clear="right"/>
 
 
 
