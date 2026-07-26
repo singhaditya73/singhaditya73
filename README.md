@@ -48,31 +48,6 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </div>
 
-<br>
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhaditya73&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhaditya73&theme=radical" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhaditya73&theme=radical" />
-</p>
-
-
-
-<br>
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhaditya73&bg_color=141321&color=ffffff&line=58a6ff&point=1f6feb&area=true&area_color=58a6ff&hide_border=true&custom_title=Aditya's%20Contribution%20Graph" alt="Contribution Graph" />
-</div>
-
-<br>
-
 <h2 align="center">🎖 Holopin Badges</h2>
 
 <p align="center">
